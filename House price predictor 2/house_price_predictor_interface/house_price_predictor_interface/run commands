@@ -1,0 +1,3 @@
+cd .\house_price_predictor_interface
+python -m pip install -r requirements.txt
+python -m streamlit run app.py
